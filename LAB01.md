@@ -7,8 +7,8 @@
 ## Kết quả thực hành
 ### Khảo sát cổng Logic AND, OR, NOT
 - Với 2 input A, B, ta lập được bảng giá trị sau:
-| A  | B |A AND B |A OR B |NOT A |
-| - |:-:|:-:|:-:|:-:|
+| A | B | A AND B | A OR B | NOT A |
+|---|---|----------|--------|-------|
 | 0 | 0 | 0 | 0 | 1 |
 | 0 | 1 | 0 | 1 | 1 |
 | 1 | 0 | 0 | 1 | 0 |
