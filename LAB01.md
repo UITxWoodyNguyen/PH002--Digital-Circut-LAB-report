@@ -7,6 +7,7 @@
 ## Kết quả thực hành
 ### Khảo sát cổng Logic AND, OR, NOT
 - Với 2 input A, B, ta lập được bảng giá trị sau:
+  
 | A | B | A AND B | A OR B | NOT A |
 |---|---|----------|--------|-------|
 | 0 | 0 | 0 | 0 | 1 |
@@ -26,7 +27,6 @@
 ### Khảo sát hàm số F(A, B, C)
 > **Ta có hàm số F(A, B, C) = A'BC + A'B'C + ABC**
 - Dễ dàng lập được bảng giá trị sau:
-# Bảng giá trị
 
 | A | B | C | A'BC | A'B'C | ABC | F(A,B,C) |
 |---|---|---|------|-------|-----|----------|
